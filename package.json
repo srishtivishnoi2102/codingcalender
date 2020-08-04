@@ -1,0 +1,11 @@
+{
+  "name": "codingcalender",
+  "version": "1.0.0",
+  "description": "This contains dependency for the coding calender utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srishti Vishnoi",
+  "license": "ISC"
+}
